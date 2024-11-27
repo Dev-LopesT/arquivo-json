@@ -1,0 +1,8 @@
+id_funcionario,nome_funcionario,id_cargo,id_departamento,salario,data_admissao
+1,Ana Souza,1,1,1500.0,2023-01-10
+2,Carlos Pereira,2,1,2500.0,2022-06-15
+3,Fernanda Lima,3,1,4500.0,2021-03-20
+4,João Silva,4,2,8000.0,2020-09-01
+5,Mariana Castro,3,3,4500.0,2022-11-05
+6,Paulo Almeida,5,4,15000.0,2018-07-12
+7,Renata Santos,6,5,4000.0,2021-12-01

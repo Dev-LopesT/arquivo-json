@@ -1,0 +1,6 @@
+id_departamento,nome_departamento,id_gerente,andar,orcamento_anual
+1,Tecnologia da Informação,1,3,500000.0
+2,Recursos Humanos,2,2,200000.0
+3,Marketing,,5,300000.0
+4,Financeiro,3,4,400000.0
+5,Pesquisa e Desenvolvimento,,6,700000.0

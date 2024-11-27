@@ -1,0 +1,8 @@
+id_cargo,descricao,salario_base,nivel,requisitos
+1,Estagiário de Desenvolvimento,1500.0,estagiario,"Cursando graduação em TI, conhecimento básico em programação"
+2,Técnico de Suporte,2500.0,tecnico,"Ensino técnico em informática ou similar, experiência em suporte técnico"
+3,Analista de Sistemas,4500.0,analista,"Graduação completa em TI, experiência com análise de sistemas e SQL"
+4,Gerente de Projetos,8000.0,gerente,"Certificação em gestão de projetos (PMP ou similar), experiência com equipes ágeis"
+5,Diretor de Tecnologia,15000.0,diretor,"Formação superior em TI, ampla experiência em liderança tecnológica e estratégia"
+6,Analista de Marketing Digital,4000.0,analista,"Conhecimento em SEO, ferramentas de análise e campanhas digitais"
+7,Gerente Financeiro,9000.0,gerente,"Graduação em finanças ou contabilidade, experiência em planejamento financeiro"

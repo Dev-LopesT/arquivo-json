@@ -1,0 +1,11 @@
+id_dependente,id_funcionario,nome_dependente,data_nascimento,parentesco
+1,1,Lucas Souza,2010-05-15,filho
+2,2,Beatriz Pereira,2015-08-20,filha
+3,3,Clara Lima,2012-03-10,filha
+4,4,Eduardo Silva,2008-11-30,filho
+5,5,Sofia Castro,2016-07-25,filha
+6,1,Lucas Souza,2010-05-15,filho
+7,2,Beatriz Pereira,2015-08-20,filha
+8,3,Clara Lima,2012-03-10,filha
+9,4,Eduardo Silva,2008-11-30,filho
+10,5,Sofia Castro,2016-07-25,filha
